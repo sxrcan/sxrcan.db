@@ -6,7 +6,7 @@
 `sxrcan.db` Modülünü kurmak için aşağıda bulunan kodu terminale yazın.
 
 ```shell
-> npm i sxrcan.db@latest
+> npm i sxrcan.db
 ```
 
 Kurulumdan sonra Modülü hangi veritabanı stilinde kullanıcağınızı seçin.
